@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pop Quiz!</title>
+    <link rel="stylesheet" href="./Assets/css/style.css" />
+</head>
+
+<body>
+    <nav>
+        <a href="#" id="view-high-score">View Highscores</a>
+        <div class="hide" id="wholetimer"><span id= "timer"></span> seconds left</div>
+    </nav>
+    <div id="firstpage" class="card">
+        <h1>Coding Pop Quiz!</h1>
+        <p>
+            Experts and amateurs alike, try out this pop quiz to see how well you know the fundamental vocabulary of coding.
+            Once you click 'Begin', the 60-second clock will begin to tick and your final score will depend on how fast you can beat the timer.
+            You have one minute to answer all 10 questions and when you are done, use your initials to save your score.
+            Keep in mind: every time you answer incorrectly, 5 seconds will be subtracted from your timer!!
+        </p>
+        <button id="begin">Begin</button>
+    </div>
+    <div id="questionpage" class="card hide">
+        <div id="choices">
+            <h1 id="questiontitle"></h1>
+            <button id="choice1"></button>
+            <br>
+            <br>
+            <button id="choice2"></button>
+            <br>
+            <br>
+            <button id="choice3"></button>
+            <br>
+            <br>
+            <button id="choice4"></button>
+        </div>
+        <p id="giveAnswer"></p>
+        <button id="next" class="hide">Next Question ></button>
+    </div>
+    <div id="donepage" class="card hide">
+        <h1>Done!</h1>
+        <!-- insert form -->
+    </div>
+    <script type="text/javascript" src="./Assets/js/script.js"></script>
+</body>
+
+</html>

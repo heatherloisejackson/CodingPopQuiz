@@ -1,0 +1,65 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    display: block;
+}
+
+nav a {
+    float: left;
+    border: black;
+    border-style: double;
+    border-radius: 4px;
+    padding: 5px;
+    color: rgb(204, 123, 57);
+    font-weight: bold;
+    background-color: white;
+}
+
+nav div {
+    float: right;
+    border: black;
+    border-style: double;
+    border-radius: 4px;
+    padding: 5px;
+    color: rgb(204, 123, 57);
+    font-weight: bold;
+    background-color: white;
+}
+
+.card {
+    background-color: white;
+    font-family: monospace;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: black white;
+    border-style: double;
+    border-width: thick;
+    padding: 25px 35px;
+    margin-top: 25px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    background-color: transition;
+    border-radius: 4px;
+
+}
+
+.hide {
+    display: none;
+}
+
+#giveAnswer {
+    font-style: italic;
+    color: tomato;
+}
+
+
