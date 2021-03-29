@@ -15,7 +15,8 @@ Open the index.html in Chrome. Users can also deploy the direct link here: [Codi
 Collaborators include Github, my classmates, my instructor, and VSCode.
 
 ## License
-MIT License
+[MIT License](https://github.com/heatherloisejackson/CodingPopQuiz/blob/main/LICENSE)
+
 ---
 
 ## Badges
