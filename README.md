@@ -8,8 +8,8 @@ This repository contains a quiz that will be very useful for Coding Bootcamp stu
 Open the index.html in Chrome. Users can also deploy the direct link here: [Coding Pop Quiz](https://heatherloisejackson.github.io/CodingPopQuiz/)
 
 ## Usage
-![screenshot1](Assets/Screen Shot 2021-03-28 at 11.32.24 PM.png)
-![screenshot2](Assets/Screen Shot 2021-03-28 at 11.32.39 PM.png)
+![screenshot1](https://github.com/heatherloisejackson/CodingPopQuiz/blob/main/Assets/Screen%20Shot%202021-03-28%20at%2011.32.24%20PM.png)
+![screenshot2](https://github.com/heatherloisejackson/CodingPopQuiz/blob/main/Assets/Screen%20Shot%202021-03-28%20at%2011.32.39%20PM.png)
 
 ## Credits
 Collaborators include Github, my classmates, my instructor, and VSCode.
